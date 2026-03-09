@@ -1,0 +1,13 @@
+body{
+font-family:"Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+background:#C0C0C0;
+}
+
+.barra-lateral{
+position:fixed;
+left:0;
+top:0;
+width:250px;
+height:100vh;
+background:#1C3D5A;
+}
